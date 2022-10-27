@@ -1,0 +1,22 @@
+.container{
+    background-color: black;
+    width: 900px;
+  }
+  .nav{
+    background-color: grey;
+    padding: 1rem;
+  }
+  .nav-link{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+  
+  }
+  article{
+    color: #fff;
+    padding: 0.8rem;
+  }
+  footer p{
+    color: black;
+    text-align: center;
+  }
